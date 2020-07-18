@@ -1,0 +1,13 @@
+.card {
+  border-radius: 1rem;
+  border: 0.0625rem solid #ccc;
+  height: 12.5rem;
+  margin: 1rem auto;
+  width: 21rem;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
